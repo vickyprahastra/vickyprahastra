@@ -16,8 +16,8 @@ class WhoAmI:
 	
  ```
 
-<br>
-## **🎯 GitHub Stats**<br>
+
+## **🎯 GitHub Stats**
  
 <div>
 <img align="right" alt="GIF" src="https://github.com/vickyprahastra/vickyprahastra/blob/master/code.gif?raw=true" width="500" height="320" />
