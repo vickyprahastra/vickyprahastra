@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World! This is me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/lukisan/" target="_blank">Linkedin</a> 
+- 📫 How to reach me:  <a href="https://vicky.prahastra.com/" target="_blank">vicky.prahastra.com</a> 
 
 
  ## Who am I?
