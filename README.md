@@ -22,7 +22,7 @@ class WhoAmI:
 <div>
 <img align="right" alt="GIF" src="https://github.com/vickyprahastra/vickyprahastra/blob/master/code.gif?raw=true" width="500" height="320" />
 
-![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=vickyprahastra&show_icons=true&theme=vue-dark&hide=stars,issues)
+![Vicky's Github Stats](https://github-readme-stats.vercel.app/api?username=vickyprahastra&show_icons=true&theme=vue-dark&hide=stars,issues)
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vickyprahastra&layout=compact&theme=vue-dark&count_private=true" />
 </div>
