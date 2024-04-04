@@ -2,8 +2,9 @@
 
 <h1 align="center">Hello World! This is me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-- 📫 Reach me:  <a href="https://vicky.prahastra.com/" target="_blank">vicky.prahastra.com</a> 
-
+<div align="center">
+📫 Reach me:  <a href="https://vicky.prahastra.com/" target="_blank">vicky.prahastra.com</a> 
+</div>
 
 ## **🎯 GitHub Stats**
  
