@@ -5,18 +5,6 @@
 - 📫 Reach me:  <a href="https://vicky.prahastra.com/" target="_blank">vicky.prahastra.com</a> 
 
 
- ## Who am I?
- ```python
-class WhoAmI:
- 	name = 'Vicky Prahastra'
-		current_work = 'Writing code'
-	
-		def getCity():
-			return "Batam - Indonesia"
-	
- ```
-
-
 ## **🎯 GitHub Stats**
  
 <div>
